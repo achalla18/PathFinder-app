@@ -1,0 +1,14 @@
+{
+  "curb_barrier": 0,
+  "junction_curb_barrier": 0,
+  "ramp_fails_check": 0,
+  "ramp_no_tactile_pad": 0,
+  "steep": 1946,
+  "steps": 88,
+  "no_sidewalk": 64,
+  "sidewalk_poor_condition": 0,
+  "sidewalk_narrow": 0,
+  "curb_unknown": 2272,
+  "junction_curb_unknown": 2996,
+  "sidewalk_unknown": 2760
+}

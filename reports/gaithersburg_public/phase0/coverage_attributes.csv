@@ -1,0 +1,23 @@
+attribute,scope,weighted_by,n,verified,inferred,unknown,top_sources,evidence_year_median,evidence_year_range
+crossing_control,crossings,count,1358,73.0,25.8,1.2,osm_gaithersburg 74%; derived:osm_marked_no_signal_inventory 26%; derived:osm_signal_tags_conflict 0%,2026.0,2026–2026
+signal_lpi,signalized crossings,count,177,0.0,0.0,100.0,,,
+signal_aps,signalized crossings,count,177,0.0,0.0,100.0,,,
+signal_hawk,signalized crossings,count,177,0.0,0.0,100.0,,,
+signal_all_ped_phase,signalized crossings,count,177,0.0,0.0,100.0,,,
+crossed_lanes,crossings,count,1358,28.0,0.0,72.0,osm_gaithersburg 100%,2026.0,2026–2026
+crossed_width_m,crossings,count,1358,0.0,0.0,100.0,,,
+crossed_speed_mph,crossings,count,1358,18.0,0.0,82.0,osm_gaithersburg 100%,2026.0,2026–2026
+crossed_aadt,crossings,count,1358,0.0,0.0,100.0,,,
+kerb_a,crossings,count,1358,1.0,0.0,99.0,osm_gaithersburg 100%,2026.0,2026–2026
+kerb_b,crossings,count,1358,1.5,0.0,98.5,osm_gaithersburg 100%,2026.0,2026–2026
+ramp_check_a,crossings,count,1358,0.0,0.0,100.0,,,
+ramp_check_b,crossings,count,1358,0.0,0.0,100.0,,,
+step_free,all edges,length,24422,0.1,99.9,0.0,derived:absent_from_osm_steps_outside_inventory 77%; derived:absent_from_osm_steps_offstreet 22%; osm_gaithersburg 0%,2026.0,2026–2026
+grade_avg_pct,all edges,length,24422,89.4,10.4,0.2,gaithersburg_dtm 98%; derived:gaithersburg_dtm_endpoints 2%,2020.0,2020–2020
+grade_max_pct,all edges,length,24422,89.4,10.4,0.2,gaithersburg_dtm 98%; derived:gaithersburg_dtm_endpoints 2%,2020.0,2020–2020
+surface_class,pedestrian ways,length,12518,81.3,0.0,18.7,osm_gaithersburg 100%,2026.0,2026–2026
+sidewalk_presence,street centerlines,length,11811,7.2,0.0,92.8,osm_gaithersburg 100%,2026.0,2026–2026
+sidewalk_condition,sidewalks,length,6058,0.0,0.0,100.0,,,
+sidewalk_width_m,sidewalks,length,6058,0.0,0.0,100.0,,,
+street_lanes,street centerlines,length,11811,18.9,0.0,81.1,osm_gaithersburg 100%,2026.0,2026–2026
+street_speed_mph,street centerlines,length,11811,13.5,0.0,86.5,osm_gaithersburg 100%,2026.0,2026–2026

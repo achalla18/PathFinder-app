@@ -1,0 +1,38 @@
+[
+ {
+  "label": "City Hall to Nicodemus Athletic Complex",
+  "note": "Manual wheelchair · 1.3 min longer, about half the hard street crossings",
+  "from": [
+   -77.41273,
+   39.41577,
+   "Frederick City Hall"
+  ],
+  "to": [
+   -77.41863,
+   39.42468,
+   "Nicodemus Athletic Complex"
+  ],
+  "profile": "manual_wheelchair",
+  "certainty": "allow_unknown",
+  "label_es": "Del Ayuntamiento al complejo deportivo Nicodemus",
+  "note_es": "Silla de ruedas manual · 1,3 min más, con la mitad de los cruces difíciles"
+ },
+ {
+  "label": "To the Weinberg Center for the Arts",
+  "note": "Manual wheelchair · a calmer way downtown, with what is not recorded shown plainly",
+  "from": [
+   -77.41029,
+   39.42137,
+   "Junior Fire Station #2"
+  ],
+  "to": [
+   -77.41173,
+   39.41358,
+   "The Weinberg Center for the Arts"
+  ],
+  "profile": "manual_wheelchair",
+  "certainty": "allow_unknown",
+  "label_es": "Al Centro de las Artes Weinberg",
+  "note_es": "Silla de ruedas manual · un camino más tranquilo por el centro, mostrando claramente lo que no está registrado"
+ }
+]

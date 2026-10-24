@@ -1,0 +1,53 @@
+[
+ {
+  "label": "Gallery Place to Ford's Theatre",
+  "note": "Manual wheelchair · the same 8 minutes, with an easier street crossing",
+  "from": [
+   -77.02191,
+   38.8988,
+   "Gallery Place"
+  ],
+  "to": [
+   -77.02566,
+   38.89666,
+   "Ford's Theatre"
+  ],
+  "profile": "manual_wheelchair",
+  "label_es": "De Gallery Place al Teatro Ford",
+  "note_es": "Silla de ruedas manual · los mismos 8 minutos, con un cruce más fácil"
+ },
+ {
+  "label": "Sheridan Circle to the West End Library",
+  "note": "Manual wheelchair · 1.2 min longer, around a stretch with no sidewalk",
+  "from": [
+   -77.05046,
+   38.91184,
+   "Sheridan Circle"
+  ],
+  "to": [
+   -77.05096,
+   38.9039,
+   "West End Neighborhood Library"
+  ],
+  "profile": "manual_wheelchair",
+  "label_es": "De Sheridan Circle a la biblioteca de West End",
+  "note_es": "Silla de ruedas manual · 1,2 min más, evitando un tramo sin acera"
+ },
+ {
+  "label": "Woodley Park Metro to the National Zoo",
+  "note": "Manual wheelchair · the hill is steeper than a ramp: PathFinder says so and shows the gentlest way",
+  "from": [
+   -77.05268,
+   38.92483,
+   "Woodley Park Metro"
+  ],
+  "to": [
+   -77.04924,
+   38.93035,
+   "Smithsonian's National Zoo"
+  ],
+  "profile": "manual_wheelchair",
+  "label_es": "Del metro Woodley Park al Zoológico Nacional",
+  "note_es": "Silla de ruedas manual · la cuesta es más empinada que una rampa: PathFinder lo dice y muestra el camino más suave"
+ }
+]

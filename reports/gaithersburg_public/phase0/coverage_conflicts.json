@@ -1,0 +1,16 @@
+{
+  "osm_signal_without_signal_inventory_within_40m": 175,
+  "osm_unsignalized_with_signal_inventory_within_40m": 0,
+  "osm_marked_signalization_not_recorded_with_signal_inventory_within_40m": 0,
+  "osm_signal_tags_contradict_each_other": 5,
+  "crossings_marked_in_osm_without_planimetric_crosswalk": null,
+  "unmapped_stairs_found_via_planimetrics": 0,
+  "kerb_evidence_from_project_sidewalk_pre_2018": 0,
+  "grade_readings_downgraded_suspect": 113,
+  "grade_readings_downgraded_not_repeatable": 1550,
+  "edges_with_grade_separation_masking": 85,
+  "implicit_crossing_edge_ends": 5261,
+  "implicit_crossing_ends_with_unknown_kerb": 3734,
+  "edges_outside_region_inventory_coverage_on_street": 3553,
+  "grade_readings_discarded_dtm_discontinuity": 12
+}

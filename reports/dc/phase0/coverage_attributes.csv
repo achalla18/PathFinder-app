@@ -1,0 +1,23 @@
+attribute,scope,weighted_by,n,verified,inferred,unknown,top_sources,evidence_year_median,evidence_year_range
+crossing_control,crossings,count,17479,72.9,27.1,0.0,osm_dc 73%; derived:osm_marked_no_signal_inventory 22%; derived:osm_marked_signalization_not_recorded 4%,2026.0,2017–2026
+signal_lpi,signalized crossings,count,4772,93.2,0.0,6.8,traffic_signals 100%,,
+signal_aps,signalized crossings,count,4772,93.2,0.0,6.8,traffic_signals 100%,,
+signal_hawk,signalized crossings,count,4772,93.2,0.0,6.8,traffic_signals 100%,,
+signal_all_ped_phase,signalized crossings,count,4772,93.2,0.0,6.8,traffic_signals 100%,,
+crossed_lanes,crossings,count,17479,84.5,0.0,15.5,roadway_block 100%,,
+crossed_width_m,crossings,count,17479,84.5,0.0,15.5,roadway_block 100%,,
+crossed_speed_mph,crossings,count,17479,75.2,0.0,24.8,roadway_block 100%,,
+crossed_aadt,crossings,count,17479,33.8,0.0,66.2,roadway_block 100%,2020.0,2020–2020
+kerb_a,crossings,count,17479,92.3,0.0,7.7,project_sidewalk_dc 66%; osm_dc 32%; sidewalk_ramps_2010 2%,2016.0,2007–2026
+kerb_b,crossings,count,17479,92.3,0.0,7.7,project_sidewalk_dc 65%; osm_dc 32%; sidewalk_ramps_2010 3%,2016.0,2007–2026
+ramp_check_a,crossings,count,17479,0.0,0.0,100.0,,,
+ramp_check_b,crossings,count,17479,0.0,0.0,100.0,,,
+step_free,all edges,length,140569,0.7,99.3,0.0,derived:absent_from_osm_steps_outside_inventory 88%; derived:absent_from_osm_steps_offstreet 9%; osm_dc 1%,2026.0,2015–2026
+grade_avg_pct,all edges,length,140569,82.0,17.3,0.6,dtm_2024 99%; derived:dtm_2024_endpoints 1%,2024.0,2024–2024
+grade_max_pct,all edges,length,140569,82.0,17.3,0.6,dtm_2024 99%; derived:dtm_2024_endpoints 1%,2024.0,2024–2024
+surface_class,pedestrian ways,length,107630,46.5,0.0,53.5,osm_dc 100%,2026.0,2026–2026
+sidewalk_presence,street centerlines,length,31918,20.9,0.0,79.1,sidewalks_2021 55%; osm_dc 45%,2021.0,2015–2026
+sidewalk_condition,sidewalks,length,63522,0.0,0.0,100.0,,,
+sidewalk_width_m,sidewalks,length,63522,0.0,0.0,100.0,,,
+street_lanes,street centerlines,length,31918,26.4,0.0,73.6,roadway_block 100%,,
+street_speed_mph,street centerlines,length,31918,23.2,0.0,76.8,roadway_block 100%,,

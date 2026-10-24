@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Python packaging / tooling
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Data never lives in the repo (set by PF_DATA_DIR)
+data/
+*.parquet
+*.pbf
+*.tif
+*.tiff
+*.gpkg
+*.shp
+
+# Build output
+dist/
+build/
+.next/
+out/
+coverage/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

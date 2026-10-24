@@ -1,0 +1,38 @@
+[
+ {
+  "label": "Four Corners Park to the Kentlands Clubhouse",
+  "note": "Manual wheelchair · 3 min longer, a quarter of the hard street crossings",
+  "from": [
+   -77.22821,
+   39.11763,
+   "Four Corners Park"
+  ],
+  "to": [
+   -77.24412,
+   39.12328,
+   "Kentlands Community Clubhouse"
+  ],
+  "profile": "manual_wheelchair",
+  "certainty": "allow_unknown",
+  "label_es": "Del parque Four Corners al club de Kentlands",
+  "note_es": "Silla de ruedas manual · 3 min más, con una cuarta parte de los cruces difíciles"
+ },
+ {
+  "label": "From the Lakeforest Transit Center",
+  "note": "Manual wheelchair · off the bus to the PEPCO Community Stage, on more sidewalk for the same time",
+  "from": [
+   -77.19997,
+   39.1526,
+   "Lakeforest Transit Center"
+  ],
+  "to": [
+   -77.20774,
+   39.14502,
+   "PEPCO Community Stage"
+  ],
+  "profile": "manual_wheelchair",
+  "certainty": "allow_unknown",
+  "label_es": "Desde el centro de tránsito Lakeforest",
+  "note_es": "Silla de ruedas manual · del autobús al escenario PEPCO, con más acera en el mismo tiempo"
+ }
+]
